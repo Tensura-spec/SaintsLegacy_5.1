@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"PacGotoTileNearestXYWLimits",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PacGotoTileNearestXYWLimits",
+  "parent":{
+    "name":"Packman",
+    "path":"folders/Scripts/Packman.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

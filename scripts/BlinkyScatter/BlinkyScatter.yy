@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BlinkyScatter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BlinkyScatter",
+  "parent":{
+    "name":"Blinky",
+    "path":"folders/Scripts/Ghost/Blinky.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

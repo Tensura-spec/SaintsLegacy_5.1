@@ -1,0 +1,2 @@
+IntroBlinkyText.visible = true;
+

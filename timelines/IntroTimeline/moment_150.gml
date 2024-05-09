@@ -1,0 +1,2 @@
+IntroSpeedyText.visible = true;
+

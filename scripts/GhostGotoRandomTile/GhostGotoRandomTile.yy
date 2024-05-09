@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"GhostGotoRandomTile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GhostGotoRandomTile",
+  "parent":{
+    "name":"Ghost",
+    "path":"folders/Scripts/Ghost.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

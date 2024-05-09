@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_clear_blocks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_clear_blocks",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

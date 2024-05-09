@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"GhostGotoTileNearestXYWLimits_Original",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GhostGotoTileNearestXYWLimits_Original",
+  "parent":{
+    "name":"Ghost",
+    "path":"folders/Scripts/Ghost.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

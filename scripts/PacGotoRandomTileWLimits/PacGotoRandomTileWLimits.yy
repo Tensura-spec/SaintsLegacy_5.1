@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"PacGotoRandomTileWLimits",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PacGotoRandomTileWLimits",
+  "parent":{
+    "name":"Packman",
+    "path":"folders/Scripts/Packman.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

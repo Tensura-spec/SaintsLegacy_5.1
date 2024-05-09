@@ -1,0 +1,2 @@
+IntroClyde.visible = true;
+

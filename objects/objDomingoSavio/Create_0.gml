@@ -1,0 +1,3 @@
+
+
+scrCreateCharacter("NPC");

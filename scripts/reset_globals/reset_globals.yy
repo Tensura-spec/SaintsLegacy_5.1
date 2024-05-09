@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"reset_globals",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"reset_globals",
+  "parent":{
+    "name":"System",
+    "path":"folders/Scripts/System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

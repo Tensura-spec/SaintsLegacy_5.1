@@ -1,0 +1,65 @@
+Converting GML script: B:\colegio\Tesis\Pruebas\Pacman-GameMaker-master\mvc\scripts\PinkyScatter\PinkyScatter.gml
+ERROR: B:\colegio\Tesis\Pruebas\Pacman-GameMaker-master\mvc\scripts\PinkyScatter\PinkyScatter.gml - 2: unexpected syntax error
+Too many errors - GML not processed : B:\colegio\Tesis\Pruebas\Pacman-GameMaker-master\mvc\scripts\PinkyScatter\PinkyScatter.gml
+
+Converting GML script: B:\colegio\Tesis\Pruebas\Pacman-GameMaker-master\mvc\objects\PackmanObj\Create_0.gml
+String not found: ConversionLog_ConvertedString 1 'W' "W"
+String not found: ConversionLog_ConvertedString 2 'A' "A"
+String not found: ConversionLog_ConvertedString 3 'S' "S"
+String not found: ConversionLog_ConvertedString 4 'D' "D"
+
+Converting GML script: B:\colegio\Tesis\Pruebas\Pacman-GameMaker-master\mvc\objects\GhostPlayerObj\Create_0.gml
+String not found: ConversionLog_ConvertedString 1 'W' "W"
+String not found: ConversionLog_ConvertedString 2 'A' "A"
+String not found: ConversionLog_ConvertedString 3 'S' "S"
+String not found: ConversionLog_ConvertedString 4 'D' "D"
+
+Exception while converting B:\colegio\Tesis\Pruebas\Pacman-GameMaker-master\mvc\objects\CreateFontObj\Draw_0.gml : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at YoYoStudio.GMX.ScriptFileRewriter.Insert(Int32 _offsetOriginal, String _insert)
+   at YoYoStudio.GMX.GMXFile.<>c__DisplayClass64_0.<GML1XReparse>b__0(YYGMLAstNode n, Object d)
+   at YoYoStudio.GMX.GMXFile.VisitAllNodes(YYGMLAstNode _node, Object _data, NodeVisitor _del)
+   at YoYoStudio.GMX.GMXFile.VisitAllNodes(YYGMLAstNode _node, Object _data, NodeVisitor _del)
+   at YoYoStudio.GMX.GMXFile.GML1XReparse(String _original, String _desc, Boolean fExpression, Boolean f1XParse)
+------------------------------------------------------------------------------
+Original was
+------------------------------------------------------------------------------
+draw_set_font(global.font1);
+draw_text(x,y,"0123456789
+'ABCDEFGHI'
+JKLM/NOPQR
+STUVWXYZ
+c1980.
+-180
+HELLO How are you")
+
+------------------------------------------------------------------------------
+Current result was
+------------------------------------------------------------------------------
+draw_set_font(global.font1);
+draw_text(x,y,"0123456789
+'ABCDEFGHI'
+JKLM/NOPQR
+STUVWXYZ
+c1980.
+-180
+HELLO How are you")
+
+Missing audiogroup for sound: 'Pellet_snd' - setting to default audio group
+Missing audiogroup for sound: 'EatBlueGhost_snd' - setting to default audio group
+Missing audiogroup for sound: 'GhostGoHome_snd' - setting to default audio group
+Missing audiogroup for sound: 'PacDies_snd' - setting to default audio group
+Missing audiogroup for sound: 'FirstLevelStart_snd' - setting to default audio group
+Missing audiogroup for sound: 'NewLife_snd' - setting to default audio group
+Missing audiogroup for sound: 'EatFruit_snd' - setting to default audio group
+Missing audiogroup for sound: 'CutScene_snd' - setting to default audio group
+Missing audiogroup for sound: 'Siren_snd' - setting to default audio group
+Missing audiogroup for sound: 'FrightSiren_snd' - setting to default audio group
+Missing audiogroup for sound: 'EyeSiren_snd' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_color.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

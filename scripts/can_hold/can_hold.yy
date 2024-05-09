@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"can_hold",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"can_hold",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

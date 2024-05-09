@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrOpenTexbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrOpenTexbox",
+  "parent":{
+    "name":"Texbox",
+    "path":"folders/Scripts/Texbox.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

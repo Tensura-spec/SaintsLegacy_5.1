@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"powerup_get_name",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"powerup_get_name",
+  "parent":{
+    "name":"System",
+    "path":"folders/Scripts/System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

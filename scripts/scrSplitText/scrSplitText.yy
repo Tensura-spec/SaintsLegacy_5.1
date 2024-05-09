@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrSplitText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrSplitText",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/Scripts/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

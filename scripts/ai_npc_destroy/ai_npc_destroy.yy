@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ai_npc_destroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ai_npc_destroy",
+  "parent":{
+    "name":"NPC",
+    "path":"folders/Scripts/NPC.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

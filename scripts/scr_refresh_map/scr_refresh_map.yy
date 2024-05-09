@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_refresh_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_refresh_map",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

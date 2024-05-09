@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"instace_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"instace_create",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

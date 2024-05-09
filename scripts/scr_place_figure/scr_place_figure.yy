@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_place_figure",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_place_figure",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+/// @description This item cannot be carried through rooms

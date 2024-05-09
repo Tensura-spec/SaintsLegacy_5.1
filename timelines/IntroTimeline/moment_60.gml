@@ -1,0 +1,2 @@
+IntroShadowText.visible = true;
+

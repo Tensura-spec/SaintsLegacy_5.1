@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"init_shockwave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_shockwave",
+  "parent":{
+    "name":"Shockwave",
+    "path":"folders/Scripts/System/Shaders/Shockwave.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

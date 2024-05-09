@@ -1,0 +1,2 @@
+IntroBashfulText.visible = true;
+

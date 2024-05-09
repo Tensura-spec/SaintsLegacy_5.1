@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"pswitch_event",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pswitch_event",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

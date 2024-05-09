@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"screen_ceil",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screen_ceil",
+  "parent":{
+    "name":"Screen",
+    "path":"folders/Scripts/Screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

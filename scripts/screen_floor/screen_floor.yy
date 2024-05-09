@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"screen_floor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screen_floor",
+  "parent":{
+    "name":"Screen",
+    "path":"folders/Scripts/Screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

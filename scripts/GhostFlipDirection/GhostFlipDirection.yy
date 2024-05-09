@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"GhostFlipDirection",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GhostFlipDirection",
+  "parent":{
+    "name":"Ghost",
+    "path":"folders/Scripts/Ghost.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

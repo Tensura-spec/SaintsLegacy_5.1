@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"pal_swap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pal_swap",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Scripts/System/Shaders.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

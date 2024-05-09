@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_flagsong",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.057062,
+  "name":"snd_flagsong",
+  "parent":{
+    "name":"Clear Fanfares",
+    "path":"folders/Sounds/Fanfares/Clear Fanfares.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_flagsong.mp3",
+  "type":0,
+  "volume":1.0,
+}

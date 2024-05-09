@@ -1,0 +1,2 @@
+IntroBlinky.visible = true;
+

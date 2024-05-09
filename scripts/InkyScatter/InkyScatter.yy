@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"InkyScatter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InkyScatter",
+  "parent":{
+    "name":"Inky",
+    "path":"folders/Scripts/Ghost/Inky.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

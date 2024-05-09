@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"follow_which_mario",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"follow_which_mario",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

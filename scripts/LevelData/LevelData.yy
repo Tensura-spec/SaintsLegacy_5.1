@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"LevelData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LevelData",
+  "parent":{
+    "name":"LevelData",
+    "path":"folders/Scripts/LevelData.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

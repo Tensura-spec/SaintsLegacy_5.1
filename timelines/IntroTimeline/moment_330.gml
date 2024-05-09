@@ -1,0 +1,2 @@
+IntroPokeyText.visible = true;
+

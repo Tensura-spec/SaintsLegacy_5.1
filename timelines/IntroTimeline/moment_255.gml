@@ -1,0 +1,2 @@
+IntroInkyText.visible = true;
+

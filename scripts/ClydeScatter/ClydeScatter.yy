@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ClydeScatter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ClydeScatter",
+  "parent":{
+    "name":"Clyde",
+    "path":"folders/Scripts/Ghost/Clyde.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

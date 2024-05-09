@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"string_add_zeroes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_add_zeroes",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Scripts/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

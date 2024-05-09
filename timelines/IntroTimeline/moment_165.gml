@@ -1,0 +1,2 @@
+IntroPinkyText.visible = true;
+

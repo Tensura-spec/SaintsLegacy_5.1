@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"end_level",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"end_level",
+  "parent":{
+    "name":"Events",
+    "path":"folders/Scripts/System/Events.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

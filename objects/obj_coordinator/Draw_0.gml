@@ -1,0 +1,3 @@
+/// @description Coordinator draw
+
+exit;
