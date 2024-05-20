@@ -5,12 +5,12 @@ function scrFinishCharacterReading(player) {
 
 function scrFinishCharacterReadingP(player) {
 	player.state = STATE_IDLE;
-	room_goto(PoliDeportivoPong);
+	room_goto(rm_controlsGV);
 }
 
 function scrFinishCharacterReadingM(player) {
 	player.state = STATE_IDLE;
-	room_goto(PatioDeComidas);
+	room_goto(rm_controlsMM);
 }
 
 function scrFinishCharacterReadingMedalla1(player) {
@@ -29,7 +29,7 @@ function scrFinishCharacterReadingMedalla(player) {
 	medalla = 1;
 }
 
-function scrFinishCharacterReadingRM () {
+function scrFinishCharacterReadingRM (player) {
 	player.state = STATE_IDLE;
 	global.medallaMM= 1;
 	room_goto(MamaMargaritaRecuerdo)
