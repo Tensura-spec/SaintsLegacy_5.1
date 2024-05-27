@@ -1,5 +1,5 @@
 /// @description Gatete Mario Engine 9 Game Coordinator (This is required for the game to run, do not remove it.)
-
+global.font1 = font_add_sprite(Font_spr,ord("'"),0,0)
 //Set game caption
 window_set_caption("SaintsLegacy");
 

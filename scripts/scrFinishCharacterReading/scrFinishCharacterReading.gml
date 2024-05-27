@@ -5,7 +5,7 @@ function scrFinishCharacterReading(player) {
 
 function scrFinishCharacterReadingP(player) {
 	player.state = STATE_IDLE;
-	room_goto(rm_controlsGV);
+	room_goto(rm_controlsVG);
 }
 
 function scrFinishCharacterReadingM(player) {
@@ -16,11 +16,13 @@ function scrFinishCharacterReadingM(player) {
 function scrFinishCharacterReadingMedalla1(player) {
 	player.state = STATE_IDLE;
 	global.medallaMR = 1;
+	room_goto(rm_medallaMR);
 }
 
 function scrFinishCharacterReadingMedalla2(player) {
 	player.state = STATE_IDLE;
 	global.medallaPD = 1;
+	room_goto(rm_medallaVG);
 }
 
 

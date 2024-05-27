@@ -25,7 +25,7 @@ if(instance_number(PausedObj) == 1)
     }        
 }
 
-if(Level mod 2 == 0) room_goto(FirstCutScene_room)
+if(Level mod 2 == 0) room_goto(CarlosCrespiRecuerdo)
 else
 {
 if(room == PlayfieldStart_room)

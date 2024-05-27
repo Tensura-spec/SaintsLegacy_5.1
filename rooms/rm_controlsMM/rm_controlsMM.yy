@@ -17,8 +17,8 @@
   ],
   "name":"rm_controlsMM",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Controls",
+    "path":"folders/Rooms/Controls.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

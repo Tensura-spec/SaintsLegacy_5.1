@@ -28,6 +28,6 @@ scrFaceTo(objPlayerP.x, objPlayerP.y);
 
 objPlayerP.state = STATE_READING;
 
-objTextbox.callback = [scrFinishCharacterReadingMedalla2, [objPlayerP, id]];
+objTextbox.callback = [scrFinishCharacterReading, [objPlayerP, id]];
 }
 

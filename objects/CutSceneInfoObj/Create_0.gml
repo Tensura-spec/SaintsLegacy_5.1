@@ -1,5 +1,5 @@
 audio_stop_all();
-if(room == FirstCutScene_room) 
+if(room == CarlosCrespiRecuerdo) 
 {
 audio_play_sound(CutScene_snd, 0, true);
 alarm[0] = 11*room_speed;

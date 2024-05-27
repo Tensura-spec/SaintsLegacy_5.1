@@ -11,8 +11,8 @@
   "name":"obj_controlsGV",
   "overriddenProperties":[],
   "parent":{
-    "name":"Special",
-    "path":"folders/Objects/Special.yy",
+    "name":"Controls",
+    "path":"folders/Objects/Controls.yy",
   },
   "parentObjectId":null,
   "persistent":false,
