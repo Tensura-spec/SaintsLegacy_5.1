@@ -11,7 +11,7 @@ if (_eventType == "sequence event" )
 	switch (_message) {
 		case "SequenceEnd8":
 			
-			room_goto(PoliDeportivoEntrada);
+			room_goto(rm_medallaMM);
 			
 			if(global.medallaMM=1)
 			{

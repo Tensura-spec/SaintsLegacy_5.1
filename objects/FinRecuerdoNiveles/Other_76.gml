@@ -12,20 +12,30 @@ if (_eventType == "sequence event" )
 		case BD:
 			
 			if (room == MiguelMagoneRecuerdo)
+			{
 			global.clearMiMa = 1;
-			room_goto(obj_medallaMiMa);
-			if (room == LauraVRecuerdo)
+			room_goto(rm_medallaMiMa);
+			}
+			else if (room == LauraVRecuerdo)
+			{
 			global.clearLV = 1;
-			room_goto(obj_medallaLV);
-			if (room == DomingoSavioRecuerdo)
+			room_goto(rm_medallaLV);
+			}
+			else if (room == DomingoSavioRecuerdo)
+			{
 			global.clearDS = 1;
-			room_goto(obj_medallaDS);
-			if (room == CeferinoNamuncuraRecuerdo)
+			room_goto(rm_medallaDS);
+			}
+			else if (room == CeferinoNamuncuraRecuerdo)
+			{
 			global.clearCN = 1;
-			room_goto(obj_medallaCN);
-			if (room == BartolomeGarelliRecuerdo)
+			room_goto(rm_medallaCN);
+			}
+			else if (room == BartolomeGarelliRecuerdo)
+			{
 			global.clearBG = 1;
-			room_goto(obj_medallaBG);
+			room_goto(rm_medallaBG);
+			}
 		break;
 
 	}
